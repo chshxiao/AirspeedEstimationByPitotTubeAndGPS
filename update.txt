@@ -1,0 +1,5 @@
+pymavlog core.py
+line 146	def fields(self) -> t.Dict[str, np.ndarray]:
+	line 154	comment it out
+		reason: int attribute in data cannot be convert to c long
+		after change: always output float64

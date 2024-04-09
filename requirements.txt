@@ -1,0 +1,7 @@
+pymavlog
+pymavlink
+numpy
+pandas
+matplotlib
+scipy
+pyproj
